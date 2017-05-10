@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Traffic Feed</string>
+    <string name="signup_text">Don\'t have an account? <b>Sign up!</b></string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="map_key">AIzaSyAJFwXeIig8uT9B18ieL6GH5EaVQRzrYUk</string>
+</resources>

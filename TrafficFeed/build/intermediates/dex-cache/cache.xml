@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\cca2e12dfc84ab9ccdcd2dbc569e74ec152829e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_33f92b4c0733d794105aa127dd3cda56c99ba5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\6c901e097253d1c6b1d4740bbeb655d42eaeb1d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_4757214ccecc36232a0f1e32adb6f3b056f60a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\c86364bedfcadfdadaf7358459a790b613f876b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_d42825c856b72eedf0040b222d1c8635ce942343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_6df549dec261401c9c5cc9c61f7dc87a938df543.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amrish\.android\build-cache\c86364bedfcadfdadaf7358459a790b613f876b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d42825c856b72eedf0040b222d1c8635ce942343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8c90ec3934d3b40a364597ead859b9a37019e61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\27bd06ae5b3f04c80a9105db018ebe0c1d89e2e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_b226365c389e71322f77f6d73240a94e88ebda36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\707afb1dcd8b2ebb5c29ea5eb96167f92e12229a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_633880609e649f8a384f9cc13190ab038ff8dc1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\b7481844163f6b4c3a65997acb5b2eec39c419e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_3f46736167d913c4f2ec13be4ea52c9ab0e0bda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\bca71063bc6eecd54ad961d5d76d5e711afc59b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_0509c7103b20a16f212f465e04a90676a6ff6230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\1361e86e92e02a87b0c74cd632af1acc052de28f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_627e49fb939c56d1d477299f3f510b29761420aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\2c7ea016bcf9a2842974192b195adf6186219ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_c53e3fc1c62df60e350b44639e0e361183753a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\aa56afbb43a02820ea34281ac829a130dc5c34d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_6c3471849500695dc279e0b8d30208734ac24b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\24d2023ac9e92d683b2db5e80d65a4d146b33902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_536093595768ac78a49bf0c195147de25dc42768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\728aa0013b8dbc9b7bc72e860c33531c9f1431ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_2cb15f9d50c44e501a408bbfb87468eda1b1df8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\3b2727c4f4a0a83905edcf5f98cabef21c679dcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_116ebf6befbec6190f2fa00cd822442266e6b2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\dc72a8ff649ebded4992a0d0f864681134ae74a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_3f9f97fe6afd8e48703ba8561f608ae533675cd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49787a542d0e0880b9a295977c85ac0faf0cec06">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_21a36e26f9ec66c94070787e274818d2b444f538\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amrish\.android\build-cache\1f54fa2106810152c94ea02e0388660752851bac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Android\AndroidStudioProjects\TrafficFeed\app\build\intermediates\pre-dexed\release\classes_98f9eb99c50081dea41aa1efa530574d18ecb538.jar" />
+    </item>
+
+</items>

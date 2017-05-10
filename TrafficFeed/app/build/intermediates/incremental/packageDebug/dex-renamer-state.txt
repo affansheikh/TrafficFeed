@@ -1,0 +1,7 @@
+#Wed May 10 10:48:36 IST 2017
+base.0=C\:\\Android\\AndroidStudioProjects\\TrafficFeed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_21a36e26f9ec66c94070787e274818d2b444f538
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android\\AndroidStudioProjects\\TrafficFeed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8c90ec3934d3b40a364597ead859b9a37019e61e\\classes.dex
+base.1=C\:\\Android\\AndroidStudioProjects\\TrafficFeed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8c90ec3934d3b40a364597ead859b9a37019e61e
+file.0=C\:\\Android\\AndroidStudioProjects\\TrafficFeed\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_21a36e26f9ec66c94070787e274818d2b444f538\\classes.dex
